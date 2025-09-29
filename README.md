@@ -22,3 +22,6 @@ The website supports:
 - Desktops and Laptops (all screen sizes)  
 
 ## 📂 Project Structure  
+
+├── index.html
+└── img/
